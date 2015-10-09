@@ -1,0 +1,1 @@
+edit_area jquey getJSONでselectboxの中身を変える
